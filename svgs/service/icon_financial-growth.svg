@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none" viewBox="0 0 48 48">
+    <path fill="#D0FBF6" d="M26.211 41.683l14.469-7.99-2.14-4.502L26 35l.211 6.683z"/>
+    <path fill="url(#paint0_radial)" d="M39.5 34c1.38 0 2.5-1.12 2.5-2.5S40.88 29 39.5 29 37 30.12 37 31.5s1.12 2.5 2.5 2.5z"/>
+    <path fill="url(#paint1_radial)" d="M39 5v31h-7V5c0-.552.448-1 1-1h5c.552 0 1 .448 1 1z"/>
+    <path fill="#D0FBF6" d="M32 9v27h-7V10c0-.552.448-1 1-1h6z"/>
+    <path fill="url(#paint2_radial)" d="M25 14v22h-7V15c0-.552.448-1 1-1h6z"/>
+    <path fill="#54DDCB" d="M45 32.5c0-1.381-1.119-2.5-2.5-2.5-.34 0-.664.069-.959.192l-.001-.001-.011.005-.006.003L29 36l-1.5-1c1.381 0 2.5-1.119 2.5-2.5 0-.93-.514-1.732-1.267-2.163l.004-.016-13.651-6.866h-.025C14.431 23.169 13.737 23 13 23c-.718 0-1.397.157-2.015.43h-.022L3 27v13l8.09-3.718 15.911 6.508h.001c.307.134.643.21.998.21.435 0 .838-.121 1.195-.317l.017-.001 14.469-7.989-.001-.002c.782-.422 1.32-1.239 1.32-2.191z"/>
+    <g filter="url(#filter0_d)">
+        <path fill="#D0FBF6" d="M27.5 34c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5z"/>
+    </g>
+    <defs>
+        <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientTransform="matrix(-5 5 -4.66422 -4.66422 42 29)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5DF8E3"/>
+            <stop offset=".411" stop-color="#54DDCB"/>
+            <stop offset="1" stop-color="#205CD2"/>
+        </radialGradient>
+        <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientTransform="matrix(-6.99996 32.00003 -12.4634 -2.72635 39 4)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5DF8E3"/>
+            <stop offset=".411" stop-color="#54DDCB"/>
+            <stop offset="1" stop-color="#205CD2"/>
+        </radialGradient>
+        <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientTransform="matrix(-6.99995 22.00002 -11.85917 -3.77334 25 14)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5DF8E3"/>
+            <stop offset=".411" stop-color="#54DDCB"/>
+            <stop offset="1" stop-color="#205CD2"/>
+        </radialGradient>
+        <filter id="filter0_d" width="13" height="13" x="20" y="26" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dx="-1"/>
+            <feGaussianBlur stdDeviation="2.5"/>
+            <feColorMatrix values="0 0 0 0 0.01439 0 0 0 0 0.0535183 0 0 0 0 0.112211 0 0 0 0.15 0"/>
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+    </defs>
+</svg>

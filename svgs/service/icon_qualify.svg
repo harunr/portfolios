@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" fill="none" viewBox="0 0 60 60">
+    <path fill="url(#paint0_radial)" d="M47.5 22.6c0-9.625-7.875-17.5-17.5-17.5s-17.5 7.875-17.5 17.5c0 6.25 3.25 11.625 8.125 14.75 1.125 1.375 1.875 3.125 1.875 4.875v.375h15v-.125c0-1.875.625-3.625 1.75-5 5-3.125 8.25-8.625 8.25-14.875z"/>
+    <path fill="#54DDCB" d="M32.5 52.6h-5c-2.75 0-5-2.25-5-5v-6.25h15v6.25c0 2.75-2.25 5-5 5z"/>
+    <path fill="url(#paint1_radial)" d="M33.5 52.475c-.375 1.5-1.875 2.625-3.5 2.625s-3.125-1.125-3.5-2.625c.25.125.625.125 1 .125h5c.375 0 .75 0 1-.125zm4-4.875l-14.5 2c.375.875 1.125 1.75 2 2.25l11.75-1.625c.5-.75.75-1.625.75-2.625zm-15-2.875v2.5l15-2.125v-2.5l-15 2.125z"/>
+    <path fill="#D0FBF6" d="M38.25 20.35l-3.75-2.5c-.375-.25-1-.25-1.375 0l-3.125 2-3-2c-.375-.25-1-.25-1.375 0l-3.75 2.5c-.25.25-.5.5-.5.875s0 .75.25 1l4.75 5.875v13.25h2.5V27.6c0-.25-.125-.5-.25-.75L24.5 21.725l1.875-1.25 3 2c.375.25 1 .25 1.375 0l3-2 1.875 1.25L31.5 26.85c-.125.25-.25.5-.25.75v13.75h2.5V28.1l4.75-5.875c.25-.25.375-.625.25-1s-.25-.75-.5-.875z"/>
+    <defs>
+        <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientTransform="matrix(-34.99995 37.50003 -34.89864 -32.572 47.5 5.1)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5DF8E3"/>
+            <stop offset=".411" stop-color="#54DDCB"/>
+            <stop offset="1" stop-color="#205CD2"/>
+        </radialGradient>
+        <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientTransform="matrix(-14.99989 12.5001 -11.46952 -13.76321 37.5 42.6)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5DF8E3"/>
+            <stop offset=".411" stop-color="#54DDCB"/>
+            <stop offset="1" stop-color="#205CD2"/>
+        </radialGradient>
+    </defs>
+</svg>

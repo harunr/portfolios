@@ -1,0 +1,33 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37.5836 41.2692L41.267 37.5858L45.1246 41.4443C45.515 41.8349 45.515 42.468 45.1245 42.8585L42.8563 45.1267C42.4658 45.5172 41.8327 45.5172 41.4421 45.1268L37.5836 41.2692ZM41.2669 37.5847L37.5835 41.2681L29.3866 33.0691C29.1835 32.866 29.1835 32.5358 29.3866 32.3327L32.3325 29.3868C32.5356 29.1837 32.8658 29.1837 33.0689 29.3868L41.2669 37.5847Z" fill="url(#paint0_radial)"/>
+<path d="M29.2344 32.9177L32.9177 29.2344L35.2 31.5172L31.5172 35.2L29.2344 32.9177Z" fill="#D0FBF6"/>
+<g filter="url(#filter0_d)">
+<path d="M20.8334 37.4998C30.0382 37.4998 37.5001 30.0379 37.5001 20.8332C37.5001 11.6284 30.0382 4.1665 20.8334 4.1665C11.6287 4.1665 4.16675 11.6284 4.16675 20.8332C4.16675 30.0379 11.6287 37.4998 20.8334 37.4998Z" fill="url(#paint1_radial)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="-1.83325" y="-0.833496" width="43.3333" height="43.3333" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="-1"/>
+<feGaussianBlur stdDeviation="2.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.01439 0 0 0 0 0.0535183 0 0 0 0 0.112211 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(29.2343 45.8337) rotate(-45.0035) scale(23.4735 21.8971)">
+<stop stop-color="#5DF8E3"/>
+<stop offset="0.410668" stop-color="#54DDCB"/>
+<stop offset="1" stop-color="#205CD2"/>
+</radialGradient>
+<radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(37.5001 4.1665) rotate(135) scale(47.1404 43.9747)">
+<stop stop-color="#5DF8E3"/>
+<stop offset="0.410668" stop-color="#54DDCB"/>
+<stop offset="1" stop-color="#205CD2"/>
+</radialGradient>
+<clipPath id="clip0">
+<rect width="50" height="50" fill="white"/>
+</clipPath>
+</defs>
+</svg>
